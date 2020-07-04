@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 > 🤠 I am an iOS app developer from China.
 
-- 👨‍💻 I'm currently working on iOS app development in Swift / Obj-C
-- 💪 I also code in Golang / Ruby / Python / TypeScript / Dart ...
+- 👨‍💻 I'm currently working on iOS app development in Swift / Objective-C
+- 💪 I also code in Go / Ruby / Python / TypeScript / Dart ...
 - ❤️ I love the stuffs that make us live better and easier, such as most of 's products
 - 📤 I share my points in my blog: [kingcos.me](https://kingcos.me) / [Weixin Public Account (萌面大道)](https://kingcos.me/img/about/2.png)
 - 🎙️ I share my life in my vlog: [Bilibili](https://space.bilibili.com/8999097) / [YouTuBe](https://www.youtube.com/channel/UC9IEzkI1cnbuTEAO-g-N2KA/about)
