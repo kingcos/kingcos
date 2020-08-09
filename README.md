@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 💬 Find me on [Twitter](https://twitter.com/kingcos_v) / [Weibo](https://weibo.com/u/1798410923)
 - 😄 Pronouns: He / Him
 
-![kingcos' github stats](https://github-readme-stats.vercel.app/api?username=kingcos&show_icons=true&count_private=true&theme=vue&hide_title=true&include_all_commits=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kingcos&show_icons=true&count_private=true&theme=vue&hide_title=true&include_all_commits=true" />
 
 *Peace and Love.*
